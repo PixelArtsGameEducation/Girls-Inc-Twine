@@ -35,7 +35,10 @@ Mt Hood CC:
 
 Portland CC:
 
-[](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC)
-[](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC)
-[](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC)
-[](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC)
+[Forgotten -- Cierra T.](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC/Cierra T. - Forgotten.html)
+
+[Why Me! -- Faith L.](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC/Faith L. - Why Me!.html)
+
+[hhh -- Elian A.](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC/Eliana A - hhh.html)
+
+[Girl Power -- Pixel Arts](https://pixelartsgameeducation.github.io/Girls-Inc-Twine/Portland CC/Pixel Arts - Girl Power.html)
