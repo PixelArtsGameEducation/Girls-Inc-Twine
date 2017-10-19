@@ -1,5 +1,5 @@
 # Girls-Inc-Twine
-Twine games made by youth during Girls Inc. workshops
+Twine games made by youth at Girls, Inc. and Pixel Arts Game Education for the Mythos Challenge, a 2017 Pocket of Innovatjon award by the East Metro STEAM Partnership.
 
 Some example games
 
